@@ -1,0 +1,39 @@
+# Compiled source files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Other
+.env
+.env.*
+
+src/build
