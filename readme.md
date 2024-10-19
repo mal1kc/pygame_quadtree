@@ -2,6 +2,6 @@
 
 Quadtree is a basic tree structure implementation.
 
-![exaple_img]/(asses/example_img.png)
+![exaple_img](assets/example_img.png)
 
 ## to test you can use github page that serves a webassembly version of it via pygbag
